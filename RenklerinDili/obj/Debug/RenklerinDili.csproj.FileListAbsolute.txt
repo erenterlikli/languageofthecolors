@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\bin\Debug\RenklerinDili.exe.config
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\bin\Debug\RenklerinDili.exe
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\bin\Debug\RenklerinDili.pdb
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.Form1.resources
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.Form2.resources
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.Properties.Resources.resources
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.exe
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.pdb
+C:\Users\Eren\source\repos\RenklerinDili\RenklerinDili\obj\Debug\RenklerinDili.csprojAssemblyReference.cache
